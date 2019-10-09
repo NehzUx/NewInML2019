@@ -200,7 +200,6 @@ Tentative program:
 * <b>Bastian Rieck</b> (ETH Zurich, Switzerland)
 * <b>Hippolyt Ritter</b> (University College London, UK)
 * <b>David Rosenberg</b> (Bloomberg LP, USA)
-* <b>David Ross</b> (Google, USA)
 * <b>Francisco Jesus Rodriguez Ruiz</b> (Columbia University, USA)
 * <b>Francisco J. R. Ruiz</b> (DeepMind, UK)
 * <b>Karhik Abinav Sankararaman</b> (Facebook, USA)
